@@ -63,6 +63,7 @@
     <SafeAreaLR>
       <div class="aligner">
         <RouterLink class="logo-link" to="/" @contextmenu="changeTheme">
+          a
           <LogoWithNameLight class="logo logo-light" alt="zSnout logo" />
           <LogoWithNameDark class="logo logo-dark" alt="zSnout logo" />
         </RouterLink>
