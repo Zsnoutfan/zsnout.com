@@ -86,7 +86,7 @@
       }
 
       if (dist > 1000.0) color = vec4(1, 1, 1, 1);
-      else color = vec4(0, 0, 0, 1);
+      else color = vec4(0, 1, 0, 1);
     }
     `"
     @ready="onReady"
